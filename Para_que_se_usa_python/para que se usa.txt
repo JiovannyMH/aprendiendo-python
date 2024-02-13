@@ -1,0 +1,12 @@
+aplicaciones moviles
+aplicaciones de escritorio
+automatizar scripts: para optimizar bateria
+ciencias de datos
+IA
+Desarrollo de software
+Automatizacion de pruebas de software
+Desarrollo de juegos (Pygame)
+
+NO se usar para:
+registro de hardware
+no se puede crear drivers
